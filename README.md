@@ -26,5 +26,5 @@ Which investment option is chosen by the majority of respondents for wealth crea
 * Financial Dataset (.xlsx)
 * Dashboard Screenshots
 
-![Dashboard](C:\Users\User\OneDrive\Pictures\Screenshots 1\powerBI.png)
+![Dashboard](powerBI.png)
 
