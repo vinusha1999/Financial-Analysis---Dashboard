@@ -4,6 +4,8 @@
 
 This project analyzes a financial survey dataset using Power BI to understand respondents' investment preferences and financial behavior. The dataset is provided in Excel format.
 
+![Dashboard](powerBI.png)
+
 ## Key Questions Analyzed
 
 **1. Age Distribution and Data Sources**
@@ -26,5 +28,5 @@ Which investment option is chosen by the majority of respondents for wealth crea
 * Financial Dataset (.xlsx)
 * Dashboard Screenshots
 
-![Dashboard](powerBI.png)
+
 
