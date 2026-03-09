@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes a financial survey dataset using Power BI to understand respondents' investment preferences and financial behavior. The dataset is provided in Excel format.
+This project analyzes a financial survey dataset using Power BI to understand respondents' investment preferences and financial behavior. The dataset is provided in CSV format.
 
 ![Dashboard](powerBI.png)
 
@@ -25,7 +25,7 @@ Which investment option is chosen by the majority of respondents for wealth crea
 ## Project Files
 
 * Power BI Dashboard (.pbix)
-* Financial Dataset (.xlsx)
+* Financial Dataset (.csv)
 * Dashboard Screenshots
 
 
